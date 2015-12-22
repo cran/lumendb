@@ -1,0 +1,13 @@
+b3abb3f86111bdbe4f434cc3c3e2eaa5 *DESCRIPTION
+79a562ff996276925ab95483e51906ca *NAMESPACE
+4e2523a1cc3d1798357da3ca0568c64c *NEWS
+40320b9638adee9c0df14b986a68b4bc *R/http.R
+ec2e7c03741db4d022cd7a398c22e0b9 *README.md
+c83232ab018b7fe26216114f4b9599df *inst/CITATION
+31aea4a336dbdf4b38c36301bcde83b7 *man/ldentities.Rd
+7652941606dd09d0a945169a87e3cc1a *man/ldnotice.Rd
+892be6816052e043082fe9dd055f9118 *man/ldsearch.Rd
+d8cfbd47efc45135c6d35f04a61e5f24 *man/ldtopics.Rd
+33ae55f7cf1efa7c418dac8603f7d8fb *man/lumenHTTP.Rd
+d3af61323b659feb62add890963011ff *tests/testthat.R
+5aff3d8497a608d56134bdeb22ac154c *tests/testthat/tests.R
